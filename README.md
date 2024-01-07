@@ -49,6 +49,10 @@ flutter run
 How App Work
 
 
+https://github.com/anonymousminati/Restro-in-Flutter/assets/96016022/ce2044f9-5bf7-4c46-aa23-951edfaabf85
+
+
+
 ## :handshake: Contact
 
 Prathamesh Malode - - prathameshmalode.2@gmail.com
