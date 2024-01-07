@@ -1,16 +1,56 @@
-# restro
+<div align='center'>
 
-an Flutter app to get nearby Restrorant list
+<h1>Restro app Using Flutter</h1>
+<p>An Application built using Flutter Framework for Restaurant food orders</p>
 
-## Getting Started
+<h4> <span> · </span> <a href="https://github.com/anonymousminati/Restro-in-Flutter/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/anonymousminati/Restro-in-Flutter/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/anonymousminati/Restro-in-Flutter/issues"> Request Feature </a> </h4>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+</div>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# :notebook_with_decorative_cover: Table of Contents
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [About the Project](#star2-about-the-project)
+- [Contact](#handshake-contact)
+
+
+## :star2: About the Project
+
+### :dart: Features
+- **Restaurant Discovery:** Explore nearby food restaurants with ease.
+- **Ordering Convenience:** Place food orders effortlessly through the app.
+- **Cuisine Variety:** Discover a wide range of cuisines and dining options.
+- **User-Friendly Interface:** Restro offers an intuitive and easy-to-use interface.
+
+
+
+## :toolbox: Getting Started
+
+### :gear: Installation
+
+Clone the repository:
+```bash
+git clone https://github.com/anonymousminati/Restro-in-Flutter.git
+```
+Navigate to the project directory
+```bash
+cd Restro-in-flutter
+```
+Install dependencies:
+```bash
+flutter pub get
+```
+Run the app:
+```bash
+flutter run
+```
+
+##DEMO
+How App Work
+
+
+## :handshake: Contact
+
+Prathamesh Malode - - prathameshmalode.2@gmail.com
+
+Project Link: [https://github.com/anonymousminati/Restro-in-Flutter.git](https://github.com/anonymousminati/Restro-in-Flutter.git)
